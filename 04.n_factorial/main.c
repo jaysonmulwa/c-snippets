@@ -9,5 +9,4 @@ int main()
          fakt=fakt*i;
          printf("Factorial of %d is %d\n", i, fakt);
     }
-    getch();
 }
